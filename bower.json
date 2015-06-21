@@ -11,7 +11,7 @@
     "application"
   ],
   "main": "vidal-button-application.html",
-  "homepage": "https://github.com/vidal-community/webcomponent-button-application",
+  "homepage": "https://github.com/vidal-community/polymer-button-application",
   "ignore": [
     "/.*",
     "/test/",
