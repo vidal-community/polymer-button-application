@@ -1,4 +1,4 @@
-# vidal-toolbar
+# button-application
 
 An element providing a starting point for your own reusable Polymer elements.
 
@@ -28,13 +28,13 @@ And you can run it via:
     polyserve
 
 Once running, you can preview your element at
-`http://localhost:8080/components/vidal-toolbar/`, where `vidal-toolbar` is the name of the directory containing it.
+`http://localhost:8080/components/button-application/`, where `button-application` is the name of the directory containing it.
 
 
 ## Testing Your Element
 
 Simply navigate to the `/test` directory of your element to run its tests. If
-you are using Polyserve: `http://localhost:8080/components/vidal-toolbar/test/`
+you are using Polyserve: `http://localhost:8080/components/button-application/test/`
 
 ### web-component-tester
 
